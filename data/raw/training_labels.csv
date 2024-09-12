@@ -1,0 +1,6 @@
+chan_id,spacecraft,anomaly_sequences,class,num_values
+D-1,SMAP,"[5520, 5700]",Jump,8509
+D-4,SMAP,"[5225, 5405]",Rise,8473
+F-5,MSL,"[3550, 3700]",Neglected,3922
+D-11,SMAP,"[4210, 4390]",Jump,7431
+G-1,SMAP,"[4740, 4920]",Constant,8469
