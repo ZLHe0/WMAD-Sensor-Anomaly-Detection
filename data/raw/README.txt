@@ -21,3 +21,5 @@ raw/
 └── test/      # Contains testing data
 
 Once the dataset is in place, you can proceed with preprocessing, training, and evaluation as outlined in the main repository's README file.
+
+> The file `relabeled_anomalies.csv` includes the original labels from the dataset, along with an additional feature, `class`, which specifies the type of anomaly.
